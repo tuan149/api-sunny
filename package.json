@@ -22,12 +22,14 @@
   },
   "homepage": "https://github.com/tuan149/api-sunny#readme",
   "dependencies": {
+    "@libphamton/api-client-x": "^1.0.7",
+    "@libphamton/chatfanpage": "^1.0.1",
+    "@libphamton/client-fb": "^1.0.9",
     "@oraliepham/api-chat-fanpage-facebook": "^1.2.4",
     "@oraliepham/api-facebooknew": "^1.0.5",
     "api-chat-fanpage-facebook": "^1.2.0",
     "api-chatfb": "^1.0.7",
     "api-chatfb-test": "^1.0.6",
     "api-facebooknew": "^1.0.4"
-  },
-  "devDependencies": {}
+  }
 }
