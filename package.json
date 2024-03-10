@@ -1,6 +1,6 @@
 {
   "name": "@tuan149/api-sunny",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "connect to api tiwtter",
   "main": "lib/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "https://github.com/tuan149/api-sunny.git"
   },
-  "author": "libphamton",
+  "author": "tuan149",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tuan149/api-sunny/issues"
